@@ -1,1 +1,3 @@
-print("nyenye")
+answer = 2
+if answer == 2:
+  print("nyenye")
